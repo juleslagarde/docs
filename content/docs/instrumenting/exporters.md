@@ -279,6 +279,7 @@ separate exporters are needed:
    * [GitLab](https://docs.gitlab.com/ee/administration/monitoring/prometheus/gitlab_metrics.html)
    * [Grafana](https://grafana.com/docs/grafana/latest/administration/view-server/internal-metrics/)
    * [JavaMelody](https://github.com/javamelody/javamelody/wiki/UserGuideAdvanced#exposing-metrics-to-prometheus)
+   * [JupyterHub](https://jupyterhub.readthedocs.io/en/stable/reference/monitoring.html)
    * [Kong](https://github.com/Kong/kong-plugin-prometheus)
    * [Kubernetes](https://github.com/kubernetes/kubernetes) (**direct**)
    * [Linkerd](https://github.com/BuoyantIO/linkerd)
